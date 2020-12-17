@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <center>
+       <HBox>
+           <VBox prefHeight="237.0" prefWidth="352.0" BorderPane.alignment="CENTER" alignment="BASELINE_CENTER">
+               <children>
+                   <Label text="Username" />
+                   <Label text="Password" />
+               </children>
+           </VBox>
+       </HBox>
+
+   </center>
+    <top>
+
+    </top>
+    <left>
+
+    </left>
+    <bottom>
+
+    </bottom>
+    <right>
+
+    </right>
+</BorderPane>
